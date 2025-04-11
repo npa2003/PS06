@@ -1,3 +1,5 @@
+# Задача разобранная на уроке.
+
 import time
 import csv
 from selenium import webdriver
